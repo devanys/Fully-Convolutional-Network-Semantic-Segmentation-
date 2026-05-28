@@ -1,1 +1,1 @@
-# Semantic-Segmentation-FCN
+# Fully Convolutional Network (Semantic Segmentation)
